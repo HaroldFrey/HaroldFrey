@@ -1,6 +1,8 @@
 ## Hi there 👋 I'm HaroldFrey
 
-> FPGA 工程师 | 芯片行业 | FPGA 原型验证系统软硬件开发
+> FPGA Engineer | Semiconductor Industry | FPGA Prototype Verification Systems
+
+---
 
 ### 🛠 Tech Stack
 
@@ -19,6 +21,26 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat)
+
+### 📂 Projects
+
+| Project | Description |
+|------|------|
+| [bare-metal-test](https://github.com/HaroldFrey/bare-metal-test-tmp) | Bare-metal automation test framework — SSH orchestration + timeout recovery + auto report generation |
+
+### 📊 What I Do
+
+- FPGA prototype verification platform development and maintenance
+- RTL design and simulation (Verilog / SystemVerilog)
+- Hardware-software co-verification
+- Automation test script development (Bash / TCL)
+- Vivado/Vitis toolchain optimization
+
+---
+
+## 中文
+
+> FPGA 工程师 | 芯片行业 | FPGA 原型验证系统软硬件开发
 
 ### 📂 项目
 
