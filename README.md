@@ -26,6 +26,8 @@
 
 | Project | Description |
 |------|------|
+| [frey-skills](https://github.com/HaroldFrey/frey-skills) | Personal Claude Code skills collection — 15 skills for Bash/FPGA/review/project analysis |
+| [AI-Agent](https://github.com/HaroldFrey/AI-Agent) | AI development environment setup guides — VS Code + GitHub + Agent complete tutorials |
 | [bare-metal-test](https://github.com/HaroldFrey/bare-metal-test-tmp) | Bare-metal automation test framework — SSH orchestration + timeout recovery + auto report generation |
 
 ### 📊 What I Do
@@ -46,6 +48,8 @@
 
 | 项目 | 说明 |
 |------|------|
+| [frey-skills](https://github.com/HaroldFrey/frey-skills) | 个人 Claude Code Skills 集合——15 个 skill，覆盖 Bash/FPGA/审查/项目分析 |
+| [AI-Agent](https://github.com/HaroldFrey/AI-Agent) | AI 开发环境搭建指南——VS Code + GitHub + Agent 完整教程 |
 | [bare-metal-test](https://github.com/HaroldFrey/bare-metal-test-tmp) | 裸机自动化测试框架——SSH 远程编排 + 超时恢复 + 自动统计报告 |
 
 ### 📊 工作领域
