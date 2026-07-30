@@ -31,8 +31,6 @@
 | [Makefile-Stduy](https://github.com/HaroldFrey/Makefile-Stduy) | Makefile 学习笔记——FPGA 工程师的完整工作流：基础语法、Vivado 综合实现、仿真、TCL 联合控制、多板卡配置 |
 | [frey-skills](https://github.com/HaroldFrey/frey-skills) | Claude Code 自定义 Skills 集合——15 个 skill，覆盖 Bash/FPGA/审查/项目分析 |
 | [AI-Agent](https://github.com/HaroldFrey/AI-Agent) | AI 开发环境搭建指南——VS Code + GitHub + Agent 完整教程 |
-| [bare-metal-test](https://github.com/HaroldFrey/bare-metal-test-tmp) | Bare-metal automation test framework — SSH orchestration + timeout recovery + auto report generation |
-
 ### 📊 What I Do
 
 - FPGA prototype verification platform development and maintenance
@@ -54,8 +52,6 @@
 | [Makefile-Stduy](https://github.com/HaroldFrey/Makefile-Stduy) | Makefile 学习笔记——FPGA 工程师的完整工作流：基础语法、Vivado 综合实现、仿真、TCL 联合控制、多板卡配置 |
 | [frey-skills](https://github.com/HaroldFrey/frey-skills) | Claude Code 自定义 Skills 集合——15 个 skill，覆盖 Bash/FPGA/审查/项目分析 |
 | [AI-Agent](https://github.com/HaroldFrey/AI-Agent) | AI 开发环境搭建指南——VS Code + GitHub + Agent 完整教程 |
-| [bare-metal-test](https://github.com/HaroldFrey/bare-metal-test-tmp) | 裸机自动化测试框架——SSH 远程编排 + 超时恢复 + 自动统计报告 |
-
 ### 📊 工作领域
 
 - FPGA 原型验证平台搭建与维护
