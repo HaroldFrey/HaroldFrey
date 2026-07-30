@@ -15,19 +15,22 @@
 **Scripting & Automation**
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat)
 ![TCL](https://img.shields.io/badge/-TCL-00599C?style=flat)
+![Makefile](https://img.shields.io/badge/-Makefile-064F8C?style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat)
 
 **Tools & Platforms**
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat)
 
 ### 📂 Projects
 
 | Project | Description |
 |------|------|
-| [frey-skills](https://github.com/HaroldFrey/frey-skills) | Personal Claude Code skills collection — 15 skills for Bash/FPGA/review/project analysis |
-| [AI-Agent](https://github.com/HaroldFrey/AI-Agent) | AI development environment setup guides — VS Code + GitHub + Agent complete tutorials |
+| [Makefile-Stduy](https://github.com/HaroldFrey/Makefile-Stduy) | Makefile 学习笔记——FPGA 工程师的完整工作流：基础语法、Vivado 综合实现、仿真、TCL 联合控制、多板卡配置 |
+| [frey-skills](https://github.com/HaroldFrey/frey-skills) | Claude Code 自定义 Skills 集合——15 个 skill，覆盖 Bash/FPGA/审查/项目分析 |
+| [AI-Agent](https://github.com/HaroldFrey/AI-Agent) | AI 开发环境搭建指南——VS Code + GitHub + Agent 完整教程 |
 | [bare-metal-test](https://github.com/HaroldFrey/bare-metal-test-tmp) | Bare-metal automation test framework — SSH orchestration + timeout recovery + auto report generation |
 
 ### 📊 What I Do
@@ -48,7 +51,8 @@
 
 | 项目 | 说明 |
 |------|------|
-| [frey-skills](https://github.com/HaroldFrey/frey-skills) | 个人 Claude Code Skills 集合——15 个 skill，覆盖 Bash/FPGA/审查/项目分析 |
+| [Makefile-Stduy](https://github.com/HaroldFrey/Makefile-Stduy) | Makefile 学习笔记——FPGA 工程师的完整工作流：基础语法、Vivado 综合实现、仿真、TCL 联合控制、多板卡配置 |
+| [frey-skills](https://github.com/HaroldFrey/frey-skills) | Claude Code 自定义 Skills 集合——15 个 skill，覆盖 Bash/FPGA/审查/项目分析 |
 | [AI-Agent](https://github.com/HaroldFrey/AI-Agent) | AI 开发环境搭建指南——VS Code + GitHub + Agent 完整教程 |
 | [bare-metal-test](https://github.com/HaroldFrey/bare-metal-test-tmp) | 裸机自动化测试框架——SSH 远程编排 + 超时恢复 + 自动统计报告 |
 
