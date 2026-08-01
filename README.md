@@ -29,8 +29,9 @@
 | Project | Description |
 |------|------|
 | [Makefile-Stduy](https://github.com/HaroldFrey/Makefile-Stduy) | Makefile study notes — FPGA engineer's complete workflow: syntax, Vivado synthesis & implementation, simulation, TCL joint control, multi-board config |
-| [frey-skills](https://github.com/HaroldFrey/frey-skills) | Claude Code custom skills collection — 15 skills covering Bash, FPGA, code review & project analysis |
+| [frey-skills](https://github.com/HaroldFrey/frey-skills) | Claude Code custom skills collection — 17 skills covering Bash, FPGA, code review & project analysis |
 | [AI-Agent](https://github.com/HaroldFrey/AI-Agent) | AI development environment setup guides — VS Code + GitHub + Agent complete tutorials |
+| [WSL_Use](https://github.com/HaroldFrey/WSL_Use) | WSL study notes & practice — what is WSL, installation & config, Linux workflow on Windows |
 
 ### 📊 What I Do
 
@@ -51,8 +52,10 @@
 | 项目 | 说明 |
 |------|------|
 | [Makefile-Stduy](https://github.com/HaroldFrey/Makefile-Stduy) | Makefile 学习笔记——FPGA 工程师的完整工作流：基础语法、Vivado 综合实现、仿真、TCL 联合控制、多板卡配置 |
-| [frey-skills](https://github.com/HaroldFrey/frey-skills) | Claude Code 自定义 Skills 集合——15 个 skill，覆盖 Bash/FPGA/审查/项目分析 |
+| [frey-skills](https://github.com/HaroldFrey/frey-skills) | Claude Code 自定义 Skills 集合——17 个 skill，覆盖 Bash/FPGA/审查/项目分析 |
 | [AI-Agent](https://github.com/HaroldFrey/AI-Agent) | AI 开发环境搭建指南——VS Code + GitHub + Agent 完整教程 |
+| [WSL_Use](https://github.com/HaroldFrey/WSL_Use) | WSL 学习笔记与实践——WSL 概述、安装与配置、Windows 上的 Linux 工作流 |
+
 ### 📊 工作领域
 
 - FPGA 原型验证平台搭建与维护
